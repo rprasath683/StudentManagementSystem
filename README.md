@@ -11,4 +11,4 @@ This is a simple Student Management System web application using Spring Boot, Sp
 - Thymeleaf
 - Eclipse STS
 
-![Student-Management-System final preview](https://github.com/pratapnea/Student-Management-System/blob/main/SMS-image.png)
+![Student-Management-System final preview](https://github.com/rprasath683/StudentManagementSystem/blob/main/Screenshot%20(230).png)
